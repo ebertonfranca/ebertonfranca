@@ -1,10 +1,10 @@
-<h3 align="center">Seja bem-vindo ao meu perfil 👋😁</h3>
+<h1 align="center">Seja bem-vindo ao meu perfil 👋😁</h1>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/%C3%A9berton-silva-fran%C3%A7a-b50342a8/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
