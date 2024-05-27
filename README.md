@@ -10,7 +10,7 @@
  
  🌱 Atualmente aprendendo **Python, JS, AWS**
 
-⚡ Pai | Pet | Gamer | Books**
+⚡ **Pai | Pet | Gamer | Books**
 
  </div>
     <div align="center">
